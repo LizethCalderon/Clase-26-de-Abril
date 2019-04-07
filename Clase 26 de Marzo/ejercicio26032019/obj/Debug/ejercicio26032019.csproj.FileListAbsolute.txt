@@ -1,0 +1,11 @@
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\bin\Debug\ejercicio26032019.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\bin\Debug\ejercicio26032019.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\bin\Debug\ejercicio26032019.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\bin\Debug\Operaciones.dll
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\bin\Debug\Operaciones.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\obj\Debug\ejercicio26032019.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\obj\Debug\ejercicio26032019.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\obj\Debug\ejercicio26032019.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\obj\Debug\ejercicio26032019.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\obj\Debug\ejercicio26032019.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio26032019\ejercicio26032019\obj\Debug\ejercicio26032019.pdb
